@@ -21,7 +21,7 @@ object Project {
     println("Taille fichier en ligne: " + dfClients.count())
     dfClients.show(20)
 
-    //Création du dataframe pour le fichier items
+    //Création du dataframe pour le fichier items (complet)
     val dfProducts = spark.read.format("csv")
       .option("header", "true")
       .option("delimiter", ";")
