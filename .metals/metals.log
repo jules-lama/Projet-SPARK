@@ -1,0 +1,5 @@
+2020.05.13 21:14:41 INFO  started: Metals version 0.9.0 in workspace 'E:\ESGI 4eA IABD\S1\Cours SPARK\Projet S1\Projet SPARK\Projet-SPARK'
+2020.05.13 21:14:42 INFO  time: initialize in 0.46s
+2020.05.13 21:14:44 WARN  no build tool detected in workspace 'E:\ESGI 4eA IABD\S1\Cours SPARK\Projet S1\Projet SPARK\Projet-SPARK'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2020.05.13 21:14:44 INFO  no build target: using presentation compiler with only scala-library
+2020.05.13 21:14:49 WARN  no build target for: E:\ESGI 4eA IABD\S1\Cours SPARK\Projet S1\Projet SPARK\Projet-SPARK\src\main\scala\fr\esgi\spark\Project.scala
